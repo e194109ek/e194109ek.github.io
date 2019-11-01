@@ -1,0 +1,22 @@
+h1{
+   color:green;
+   background-color: black;
+   text-align:center;
+}
+
+h2{
+   color:green;
+   background-color: black;
+   text-align:center;
+}
+h3{
+   color:blue;
+}
+
+body{
+    background-image: url("../images/0_20160718132345.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    color:gainsboro;
+}
