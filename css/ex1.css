@@ -1,0 +1,27 @@
+h1{
+   color:green;
+   background-color: black;
+   text-align:center;
+}
+h2{
+   color:green;
+   background-color: black;
+   text-align:center;
+}
+table{
+    background-color: red;
+}
+
+ol{
+     background-image: url("../images/Caribbean_sea_-_Morrocoy_National_Park_-_Playa_escondida.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+
+body{
+    background-image: url("../images/tachiaraiDSC02687_TP_V.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
