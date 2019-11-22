@@ -1,0 +1,31 @@
+h1#kosuke{
+   color:white;
+   background-color: cyan;
+   text-align:center;
+}
+
+h1#link{
+   color:blue;
+   background-color: gray;
+   text-align:center;
+}
+
+h2#Ggeneration{
+   color:yellow;
+   background-color: blue;
+   text-align:center;
+}
+
+h2#dark{
+   color:orange;
+   background-color: black;
+   text-align:center;
+}
+
+body{
+    background-image: url("../images/01_spow_051119.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    color:white;
+}
